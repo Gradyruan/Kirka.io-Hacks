@@ -1,10 +1,10 @@
 
 // ==UserScript==
-// @name        Aimbot/esp/chams
+// @name        SnipeWare
 // @namespace   https://discord.gg/ENHYznSPmM
-// @version      3.0
-// @description  Fixed Blue Screen
-// @author      HoaxCheats 
+// @version      4.0
+// @description  Fixed Aimbot No Working
+// @author      HoaxCheats
 // @icon        https://www.google.com/s2/favicons?sz=64&domain_url=kirka.io
 // @grant       none
 // @run-at      document-start
